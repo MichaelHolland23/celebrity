@@ -1,0 +1,7 @@
+img {
+  width: 300px;
+  height: auto;
+}
+#isabel, #kyle, #rose, #thicke {
+  display: none;
+}
